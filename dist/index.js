@@ -1,7 +1,3 @@
-// var spiderman: personajeInterface = {
-//     nombre: "Peter parket",
-//     poderes: ["fuerza", "agilidad", "telas de araña"]
-// };
 var nombre = "MarcasVehiculos";
 var anno = 1994;
 var empresa = "World";

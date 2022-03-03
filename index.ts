@@ -6,10 +6,7 @@ interface marcasInterface{
 
 
 
-// var spiderman: personajeInterface = {
-//     nombre: "Peter parket",
-//     poderes: ["fuerza", "agilidad", "telas de araña"]
-// };
+
 
 let nombre = "MarcasVehiculos";
 let anno = 1994;
